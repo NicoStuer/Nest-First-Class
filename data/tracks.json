@@ -1,0 +1,130 @@
+{
+  "tracks": [
+    {
+      "id": 1,
+      "title": "Johnny B. Goode",
+      "duration": 180,
+      "artist": "Chuck Berry"
+    },
+    {
+      "id": 2,
+      "title": "Bohemian Rhapsody",
+      "duration": 355,
+      "artist": "Queen"
+    },
+    {
+      "id": 3,
+      "title": "Stairway to Heaven",
+      "duration": 482,
+      "artist": "Led Zeppelin"
+    },
+    {
+      "id": 4,
+      "title": "Sweet Child o' Mine",
+      "duration": 357,
+      "artist": "Guns N' Roses"
+    },
+    {
+      "id": 5,
+      "title": "Hotel California",
+      "duration": 390,
+      "artist": "Eagles"
+    },
+    {
+      "id": 6,
+      "title": "Born to Be Wild",
+      "duration": 210,
+      "artist": "Steppenwolf"
+    },
+    {
+      "id": 7,
+      "title": "Purple Haze",
+      "duration": 186,
+      "artist": "Jimi Hendrix"
+    },
+    {
+      "id": 8,
+      "title": "Livin' on a Prayer",
+      "duration": 248,
+      "artist": "Bon Jovi"
+    },
+    {
+      "id": 9,
+      "title": "Sweet Home Alabama",
+      "duration": 290,
+      "artist": "Lynyrd Skynyrd"
+    },
+    {
+      "id": 10,
+      "title": "Don't Stop Believin'",
+      "duration": 251,
+      "artist": "Journey"
+    },
+    {
+      "id": 11,
+      "title": "We Will Rock You",
+      "duration": 122,
+      "artist": "Queen"
+    },
+    {
+      "id": 12,
+      "title": "Rock and Roll All Nite",
+      "duration": 211,
+      "artist": "KISS"
+    },
+    {
+      "id": 13,
+      "title": "Smoke on the Water",
+      "duration": 340,
+      "artist": "Deep Purple"
+    },
+    {
+      "id": 14,
+      "title": "Bad to the Bone",
+      "duration": 246,
+      "artist": "George Thorogood & The Destroyers"
+    },
+    {
+      "id": 15,
+      "title": "Paint It Black",
+      "duration": 211,
+      "artist": "The Rolling Stones"
+    },
+    {
+      "id": 16,
+      "title": "Black Dog",
+      "duration": 295,
+      "artist": "Led Zeppelin"
+    },
+    {
+      "id": 17,
+      "title": "Fortunate Son",
+      "duration": 141,
+      "artist": "Creedence Clearwater Revival"
+    },
+    {
+      "id": 18,
+      "title": "Baba O'Riley",
+      "duration": 305,
+      "artist": "The Who"
+    },
+    {
+      "id": 19,
+      "title": "I Want to Hold Your Hand",
+      "duration": 147,
+      "artist": "The Beatles"
+    },
+    {
+      "id": 20,
+      "title": "American Woman",
+      "duration": 226,
+      "artist": "The Guess Who"
+    },
+    {
+      "id": 21,
+      "title": "Dont Stop",
+      "duration": 158,
+      "artist": "Rooling Stones"
+    }
+  ]
+}
